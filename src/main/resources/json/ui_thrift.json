@@ -1,0 +1,45 @@
+[
+  {
+    "type": "input",
+    "field": "serverIp",
+    "title": "服务端iP",
+    "info": "服务端iP",
+    "props": {
+      "type": "text",
+      "placeholder": "Thrift 服务器ip"
+    },
+    "_fc_drag_tag": "input",
+    "hidden": false,
+    "display": true,
+    "value": "127.0.0.1",
+    "$required": ""
+  },
+  {
+    "type": "input",
+    "field": "serverPort",
+    "title": "服务端口",
+    "info": "服务端口",
+    "props": {
+      "placeholder": "Thrift 服务器端口",
+      "type": "number"
+    },
+    "_fc_drag_tag": "input",
+    "hidden": false,
+    "display": true,
+    "value": "9099"
+  },
+  {
+    "type": "input",
+    "field": "requestParam",
+    "title": "请求参数",
+    "info": "请求参数",
+    "props": {
+      "type": "text",
+      "placeholder": "请输入请求参数"
+    },
+    "_fc_drag_tag": "input",
+    "hidden": false,
+    "display": true,
+    "value": "哈哈哈"
+  }
+]
